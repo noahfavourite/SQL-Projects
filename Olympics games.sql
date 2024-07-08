@@ -1,4 +1,4 @@
-/* The primary goal was to utilize SQL queries to extract and analyze pertinent information from the comprehensive Olympic Games data set. 
+/* The primary goal is to utilize SQL queries to extract and analyze pertinent information from the comprehensive Olympic Games data set. 
 This task involved understanding the data set, identifying relevant information, and then implementing SQL queries to fetch this information effectively. 
 This process enabled me to gain valuable insights into various aspects of the Olympic Games, contributing to a deeper understanding of this global sporting event.*/
 
