@@ -9,4 +9,4 @@ This task involved understanding the data set, identifying relevant information,
 This process enabled me to gain valuable insights into various aspects of the Olympic Games, contributing to a deeper understanding of this global sporting event
 To view script, [click here](https://github.com/noahfavourite/SQL-Projects/blob/main/Olympics%20games.sql)
 
-2. Sales Analysis: 
+2. Danny's Dinner:  
